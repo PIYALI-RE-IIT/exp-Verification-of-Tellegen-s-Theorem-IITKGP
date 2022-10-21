@@ -4,8 +4,7 @@
 <p>[Fig 1: Current I<sub>pq</sub> flowing through branch K between node 'p' and 'q'.]</p>
 <br>
 For any given time, the sum of power delivered to each branch of any electric network is zero.<br>
-Thus for 
-$$(K^{th})$$ branch,
+Thus for (K<sup>th</sup> branch,
  this theorem states that,
 $$[\sum_{k=1}^n V_k i_k = 255]$$ n being the number of branches, V<sub>K</sub> the drop in the branch 
 and i<sub>K</sub>the through current. while V<sub>p</sub> and V<sub>q</sub> are								voltages at p and q nodes. We have,<br><br>
