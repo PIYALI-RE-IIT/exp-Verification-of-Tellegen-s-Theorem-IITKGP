@@ -1,14 +1,13 @@
-## Introduction
+## References
+#### Books
+<p>1) A. Chakrabarti, Circuit Theory (Analysis and Synthesis). Fifth Edition : 2006, Dhanpat Rai and Co.</p>
+<p>2) A. Bruce Carlson, Circuits. First Reprint :2002, Thomson Asia Pte Ltd.</p>
+<p>3) Parker Smith, Problems in Electrical Engineering. Ninth Edition :2003 , M/s Constable and Company, London.</p>
 
-<div align="center">
-<img src="images/iitkgp.png" width="10%">
-</div>
+#### Video Lectures
+<p><a href="http://nptel.ac.in/courses/108106075/36" target="_blank">Click here for NPTEL Video Lecture</a></p>
 
-  <b>Discipline | <b> Electrical Engineering 
-:--|:--|
-<b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Verification of Tellegen's Theorem and Experiment 3**
-
+# People
 
 <b>Name of Developer | <b> **Prof. Alok Kanti Deb**
 :--|:--|
@@ -23,5 +22,3 @@ SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department
 :--|:--|:--|:--|:--|:--|
 1 | **Jogendra Nath Kundu** | Developer | Project Engineer | Department of Electrical Engineering | IIT Kharagpur |
 2 | **Piyali Chattopadhyay** | Integration | Research Engineer | Department of Electrical Engineering | IIT Kharagpur | 
-
- 
