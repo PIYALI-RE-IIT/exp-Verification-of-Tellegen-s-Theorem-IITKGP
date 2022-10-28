@@ -7,7 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Verification of Tellegen's Theorem and Experiment 3**
+<b> Experiment|     <b> **Verification of Tellegen's Theorem and section A Experiment 3**
 
 
 <b>Name of Developer | <b> **Prof. Alok Kanti Deb**
